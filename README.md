@@ -22,5 +22,5 @@ Community logo: `typescript-blue/logo`
 ### Credits 🙏
 
 Thanks to:
-- [zeke](https://github.com/zeke) for creating original javascript yellow package!
+- [zeke](https://github.com/zeke) for creating original [javascript yellow](http://github.com/colorjs/javascript-yellow) package!
 - [remojansen](https://github.com/remojansen) for sharing the svg version of community logo!

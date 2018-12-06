@@ -13,10 +13,10 @@ const logoText = require('typescript-blue/logo-text')
 // logo = '<svg>...</svg>'
 ```
 
-![](logo-text.svg)
+![](https://raw.githubusercontent.com/maciejkorsan/typescript-blue/master/logo-text.svg?sanitize=true)
 Text logo: `typescript-blue/logo-text`
 
-![](logo.svg)
+![](https://raw.githubusercontent.com/maciejkorsan/typescript-blue/master/logo.svg?sanitize=true)
 Community logo: `typescript-blue/logo`
 
 ### Credits 🙏

@@ -13,5 +13,5 @@ const logo = require('typescript-blue/logo-text')
 // logo = '<svg>...</svg>'
 ```
 
-<img src="https://cdn.rawgit.com/maciejkorsan/typescript-blue/master/logo-text.svg">
-<img src="https://cdn.rawgit.com/maciejkorsan/typescript-blue/master/logo.svg">
+<img src="assets/logo-text.svg">
+<img src="assets/logo.svg">

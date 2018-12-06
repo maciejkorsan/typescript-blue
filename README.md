@@ -1,8 +1,8 @@
-# typescript-blue
+# typescript-blue 💙
 
-Blue color of the TypeScript logo (with some logos 😎)
+TypeScript's blue color package (with some logos 😎)
 
-## Usage
+## Usage 🚀
 
 ```js
 const blue = require('typescript-blue')
@@ -18,3 +18,9 @@ Text logo: `typescript-blue/logo-text`
 
 ![](logo.svg)
 Community logo: `typescript-blue/logo`
+
+### Credits 🙏
+
+Thanks to:
+- [zeke](https://github.com/zeke) for creating original javascript yellow package!
+- [remojansen](https://github.com/remojansen) for sharing the svg version of community logo!

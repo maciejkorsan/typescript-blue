@@ -14,4 +14,7 @@ const logo = require('typescript-blue/logo-text')
 ```
 
 ![](logo-text.svg)
+Text logo: `typescript-blue/logo-text`
+
 ![](logo.svg)
+Community logo: `typescript-blue/logo`

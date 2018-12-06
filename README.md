@@ -2,6 +2,11 @@
 
 TypeScript's blue color package (with some logos 😎)
 
+## Installation 📦
+
+`npm install typescript-blue`
+
+
 ## Usage 🚀
 
 ```js

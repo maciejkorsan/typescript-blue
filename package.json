@@ -1,0 +1,17 @@
+{
+  "name": "typescript-blue",
+  "version": "1.0.0",
+  "description": "The official color of the typescript logo",
+  "main": "color.js",
+  "repository": "https://github.com/maciejkorsan/typescript-blue",
+  "keywords": [
+    "typescript",
+    "javascript",
+    "blue",
+    "color",
+    "logo",
+    "design"
+  ],
+  "author": "maciejkorsan",
+  "license": "MIT"
+}

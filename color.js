@@ -1,1 +1,1 @@
-module.exports = '#007ACC';
+module.exports = 'blue';
